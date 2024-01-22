@@ -63,7 +63,7 @@ While you're developing your application, you want to run Tailwind in "watch" mo
 
 - use the [Puma](https://puma.io/) plugin to integrate "watch" with `rails server`, or
 - run `rails tailwindcss:watch` as a separate process, or
-- run `bin/dev` which uses [Foreman](https://github.com/ddollar/foreman)
+- run `bin/dev` which uses [Foreman](https://github.com/RabbitDev810/)
 
 #### Puma plugin
 
